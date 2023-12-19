@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+
+        <item android:id="@+id/num1"
+            android:title="number 1"
+            android:icon="@drawable/ic_next"/>
+        <item android:id="@+id/num2"
+            android:title="number 2"
+            android:icon="@drawable/ic_play"/>
+        <item android:id="@+id/num3"
+            android:title="number 3"
+            android:icon="@drawable/ic_fast_rewind"/>
+
+    </group>
+</menu>
